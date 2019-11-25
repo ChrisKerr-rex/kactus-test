@@ -1,0 +1,137 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70F89169-3826-4B6C-B6E4-8BC3516F01BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 880,
+    "x": 104,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "72D3DDED-FA45-4786-A972-456126691FA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0740EB2-B696-465B-A7E8-75E18311AC0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDC77973-7C9E-456A-942E-006ECC79967D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E45560FE-BFD5-410A-856F-7BE5EC760AA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20E108BF-46F9-4337-8F5B-184DC028F4D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A228892-0E51-4598-A439-F3BE125254E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1005732-EAD0-4DDA-92EB-EAF04393FC59"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0854BCD6-BB63-4D6A-8246-64EA3BD028B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3329A8FA-C31A-4926-915F-9C2D15912CBD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4659CDCA-BBC9-4810-91AB-84BAC5F4A0F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "806D5670-668D-4D5A-8AA6-AE6A407EFD32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B81351B-D6D5-4E1D-BCC3-DFD17B742B69"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "880BC9AF-71EB-40C1-9859-4C9962BC74AE",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

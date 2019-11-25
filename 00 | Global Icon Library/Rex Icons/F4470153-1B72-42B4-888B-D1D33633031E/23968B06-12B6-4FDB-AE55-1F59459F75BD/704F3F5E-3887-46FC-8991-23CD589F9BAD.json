@@ -1,0 +1,240 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "704F3F5E-3887-46FC-8991-23CD589F9BAD",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11.06893952807002,
+    "width": 8.312099558232092,
+    "x": 5.343948431849014,
+    "y": 1.176470588235282
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "🎨 Icon Colour",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22377146888605989, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614230674120266, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.49999984777289008, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{5.2794009102492966e-05, 0.40850374547922574}",
+      "curveMode": 3,
+      "curveTo": "{0, 0.1666141207292596}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.37241639796767945}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.04698928222467532, 0.5462562141598134}",
+      "curveMode": 3,
+      "curveTo": "{0.0069721501385334667, 0.44378997736004788}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.020654006555387228, 0.47826580665178592}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.21705387799644674, 0.72612310218229381}",
+      "curveMode": 3,
+      "curveTo": "{0.097078630460394708, 0.61061815282514931}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.18568011363468132, 0.69591832962985745}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.40790918949836341, 0.90162866103309292}",
+      "curveMode": 3,
+      "curveTo": "{0.33645875510850076, 0.83494518249792915}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.34980090197360497, 0.84739718186909607}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.54283093260614124, 0.95119166243721143}",
+      "curveMode": 4,
+      "curveTo": "{0.4571687629394498, 0.95119166243703102}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.49999984777287193, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.66354094043604872, 0.8349451824991504}",
+      "curveMode": 3,
+      "curveTo": "{0.59209050604698332, 0.90162866103352113}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.65019879357130461, 0.84739718186997204}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.90292106508682202, 0.61061815282393672}",
+      "curveMode": 3,
+      "curveTo": "{0.78294581755290016, 0.72612310217935438}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.81431958191565812, 0.69591832962587785}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99306303028533971, 0.44370058294248294}",
+      "curveMode": 3,
+      "curveTo": "{0.95301041332111469, 0.54625621416008585}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.97960929672497987, 0.47759357478989545}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.16655014314917951}",
+      "curveMode": 3,
+      "curveTo": "{0.99997347111121304, 0.40834116070317528}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.37200015650908996}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.76470588235294,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "545E18AD-CE30-410C-B6E3-20545E99864F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}

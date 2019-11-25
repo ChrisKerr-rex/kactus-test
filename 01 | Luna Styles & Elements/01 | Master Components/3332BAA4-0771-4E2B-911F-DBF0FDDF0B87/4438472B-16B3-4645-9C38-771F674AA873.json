@@ -1,0 +1,129 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4438472B-16B3-4645-9C38-771F674AA873",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 111,
+    "x": 16,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Text Data Cell",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "40C6FDC7-1DCA-4FB5-B72D-818D268A69BD_textStyle",
+      "value": "8EE8BD39-9D29-482B-BDFE-F8506171AEFB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "40C6FDC7-1DCA-4FB5-B72D-818D268A69BD_stringValue",
+      "value": "Column name"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56D66A60-B816-4D18-98AC-4FAA0B2CADF7_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "774BF96A-564C-4E9E-ABB5-724EF97DDA1A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E51F27C2-52E0-428A-B129-D143CFC066AC_symbolID",
+      "value": "16EAC421-C967-43A7-9F64-FC8EE376968A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E51F27C2-52E0-428A-B129-D143CFC066AC/22941F34-C30A-4E5B-B3AD-0073CAC0EC96_layerStyle",
+      "value": "51A9E1A5-2802-415D-81EE-8089BF8B7C60"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E51F27C2-52E0-428A-B129-D143CFC066AC/A41D2149-9AF3-4A08-A2BE-550CA2DB4878_layerStyle",
+      "value": "51A9E1A5-2802-415D-81EE-8089BF8B7C60"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF8A9E4D-21B9-44CC-BBBB-B1C15AAA6935/229FA9E1-4BD8-455C-A47C-F04C982D68D5_stringValue",
+      "value": "Column name"
+    }
+  ],
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A2F02056-30B6-4C6F-A129-95940CEE3007",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A87EFBD-A4E2-4124-ADB2-487EC302B250",
+  "verticalSpacing": 0
+}
